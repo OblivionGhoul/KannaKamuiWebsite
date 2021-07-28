@@ -6,6 +6,6 @@ module.exports = (app, express) => {
     let port = process.env.PORT || 3000
 
     app.listen(port, function () {
-        console.log('App is running, server is listening on port', port)
+        console.log('App is running, server is on port', port)
     })
 }

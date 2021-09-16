@@ -1,6 +1,6 @@
 {
   "name": "kannakamui-website",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "An api and website for the Kanna Kamui Discord Bot",
   "main": "index.js",
   "scripts": {
